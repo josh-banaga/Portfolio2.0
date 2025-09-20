@@ -1,0 +1,9 @@
+:root {
+    --primary-color: #A1CCA5; /* Main background*/
+    --secondary-color1: #8FB996; /*Section backgrounds*/
+    --secondary-color2: #709775; /* Headers*/
+    --accent: #111D13; /*Text colour*/
+
+    --border-radius: 8px;
+}
+
